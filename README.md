@@ -1,6 +1,6 @@
-#### Author: Sarr Papa Omar
-#### Username: omarxx1
-#### Email: omarxx1@dev.net
+##### Author: Sarr Papa Omar
+##### Username: omarxx1
+##### Email: omarxx1@dev.net
 
 
 ## Getting Started
@@ -58,6 +58,7 @@ app/util/HashUtil.class
 ✔ Gestione file
 ✔ Compilazione JVM
 ✔ Architettura modulare
+
 
 
 
