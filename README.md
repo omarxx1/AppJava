@@ -1,3 +1,8 @@
+# Author: Sarr Papa Omar
+# Username: omarxx1
+# Email: omarxx1@dev.net
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -53,4 +58,5 @@ app/util/HashUtil.class
 ✔ Gestione file
 ✔ Compilazione JVM
 ✔ Architettura modulare
+
 
