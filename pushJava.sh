@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script per trasferire il progetto Java su GitHub da zero
+# Script per trasferire il progetto Java su GitHub.
 
 # Spostati nella cartella del progetto
 cd /mnt/c/Users/omars/..../Desktop/java-app1/app1  # esempio di percorso, modifica se necessario
